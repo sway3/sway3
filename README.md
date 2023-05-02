@@ -6,6 +6,7 @@
 I am a Bachelor of CS student who desperately wants to become a FrontEnd Developer.
 
 <h2>Tech Stack 📚</h2>
+
 <hr>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
