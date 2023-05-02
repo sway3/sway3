@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>김승우 · Seungwoo Kim</h1>
 
-<!--
-**sway3/sway3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome :)
 
-Here are some ideas to get you started:
+프론트엔드 개발자를 꿈꾸는 대학생 병아리 개발자 김승우입니다.
+I am a Bachelor of CS student who desparately wants to become a FrontEnd Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+<hr>
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
