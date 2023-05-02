@@ -1,6 +1,6 @@
 <h1>김승우 · Seungwoo Kim</h1>
 
-<h2>Welcome :)</h2>
+### Welcome :) <br>
 프론트엔드 개발자를 꿈꾸는 대학생 병아리 개발자 김승우입니다.<br>
 I am a Bachelor of CS student who desperately wants to become a FrontEnd Developer.
 
