@@ -3,7 +3,7 @@
 ### Welcome :)
 
 프론트엔드 개발자를 꿈꾸는 대학생 병아리 개발자 김승우입니다.
-I am a Bachelor of CS student who desparately wants to become a FrontEnd Developer.
+I am a Bachelor of CS student who desperately wants to become a FrontEnd Developer.
 
 Tech Stack
 <hr>
