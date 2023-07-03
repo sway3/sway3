@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-꾸준히 정진하는 프론트엔드 개발자, 김승우 입니다.
+꾸준히 정진하는 프론트엔드 개발자, 김승우 입니다.<br>
 I am a striving, workaholic FrontEnd Engineer!
 
 <h2>Skill-set 📚</h2>
