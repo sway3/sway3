@@ -1,4 +1,4 @@
-<h1>김승우 · Seungwoo Kim</h1>
+<h1>Seungwoo Kim</h1>
 
 ## Welcome!
 
