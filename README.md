@@ -2,6 +2,12 @@
   <img src='https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,100:008080&text=Hey%20there!%20I%20am%20Sway.&textBg=false&reversal=false&fontColor=ffffff&fontSize=60' />
 </div>
 
+<h3 align='center'>Welcome to my profile!</h3>
+<p align='center'>My name is <strong>Seungwoo Kim</strong>, but people mostly call me as my nickname, <strong>Sway</strong>.</p>
+<p align='center'>I am from <strong>South Korea 🇰🇷</strong>, and I am currently a BSc Computer Science student at the <strong>University of Exeter 🇬🇧</strong>
+  <br>I am specialising in FrontEnd, but often develops full-stack web application with the MERN stack.</p>
+<p align='center'>Feel free to surf through all my recent works 🧑🏻‍💻</p>
+
 <h3 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" />
